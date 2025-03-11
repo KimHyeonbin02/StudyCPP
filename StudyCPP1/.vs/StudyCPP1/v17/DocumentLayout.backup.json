@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\StudyCPP1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|solutionrelative:StudyCPP1\\StudyCPP1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudyCPP1.cpp",
+              "DocumentMoniker": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\StudyCPP1.cpp",
+              "RelativeDocumentMoniker": "StudyCPP1\\StudyCPP1.cpp",
+              "ToolTip": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\StudyCPP1.cpp*",
+              "RelativeToolTip": "StudyCPP1\\StudyCPP1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T11:30:23.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

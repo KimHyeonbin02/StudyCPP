@@ -21,5 +21,11 @@
     <ClCompile Include="VariableAndDataType.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ArithmeticOper.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ComparisonOperAndLogicalOper.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

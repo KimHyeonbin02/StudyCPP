@@ -1,22 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\StudyCPP\\StudyCPP1\\",
+  "WorkspaceRootPath": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|C:\\Users\\User\\Desktop\\StudyCPP\\StudyCPP1\\StudyCPP1\\ComparisonOperAndLogicalOper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\Practice3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|solutionrelative:StudyCPP1\\Practice3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\Practice2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|solutionrelative:StudyCPP1\\Practice2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\Practice1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|solutionrelative:StudyCPP1\\Practice1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\Loop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|solutionrelative:StudyCPP1\\Loop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\ComparisonOperAndLogicalOper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|solutionrelative:StudyCPP1\\ComparisonOperAndLogicalOper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|C:\\Users\\User\\Desktop\\StudyCPP\\StudyCPP1\\StudyCPP1\\ArithmeticOper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|solutionrelative:StudyCPP1\\ArithmeticOper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\VariableAndDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|solutionrelative:StudyCPP1\\VariableAndDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|C:\\Users\\User\\Desktop\\StudyCPP\\StudyCPP1\\StudyCPP1\\OutPut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\BranchStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|solutionrelative:StudyCPP1\\BranchStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\OutPut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|solutionrelative:StudyCPP1\\OutPut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|C:\\Users\\User\\Desktop\\StudyCPP\\StudyCPP1\\StudyCPP1\\VariableAndDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|solutionrelative:StudyCPP1\\VariableAndDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\ArithmeticOper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D49BEA6-90A4-422E-BFAB-1E73E71DEE57}|StudyCPP1\\StudyCPP1.vcxproj|solutionrelative:StudyCPP1\\ArithmeticOper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,61 +46,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ComparisonOperAndLogicalOper.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudyCPP\\StudyCPP1\\StudyCPP1\\ComparisonOperAndLogicalOper.cpp",
-              "RelativeDocumentMoniker": "StudyCPP1\\ComparisonOperAndLogicalOper.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\StudyCPP\\StudyCPP1\\StudyCPP1\\ComparisonOperAndLogicalOper.cpp",
-              "RelativeToolTip": "StudyCPP1\\ComparisonOperAndLogicalOper.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-08T03:16:52.477Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ArithmeticOper.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudyCPP\\StudyCPP1\\StudyCPP1\\ArithmeticOper.cpp",
-              "RelativeDocumentMoniker": "StudyCPP1\\ArithmeticOper.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\StudyCPP\\StudyCPP1\\StudyCPP1\\ArithmeticOper.cpp",
-              "RelativeToolTip": "StudyCPP1\\ArithmeticOper.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAqwDsAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Practice3.cpp",
+              "DocumentMoniker": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\Practice3.cpp",
+              "RelativeDocumentMoniker": "StudyCPP1\\Practice3.cpp",
+              "ToolTip": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\Practice3.cpp",
+              "RelativeToolTip": "StudyCPP1\\Practice3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-08T01:48:18.383Z",
+              "WhenOpened": "2025-05-23T12:30:44.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practice2.cpp",
+              "DocumentMoniker": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\Practice2.cpp",
+              "RelativeDocumentMoniker": "StudyCPP1\\Practice2.cpp",
+              "ToolTip": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\Practice2.cpp",
+              "RelativeToolTip": "StudyCPP1\\Practice2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T12:19:00.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Practice1.cpp",
+              "DocumentMoniker": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\Practice1.cpp",
+              "RelativeDocumentMoniker": "StudyCPP1\\Practice1.cpp",
+              "ToolTip": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\Practice1.cpp",
+              "RelativeToolTip": "StudyCPP1\\Practice1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T12:12:10.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "VariableAndDataType.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudyCPP\\StudyCPP1\\StudyCPP1\\VariableAndDataType.cpp",
-              "RelativeDocumentMoniker": "StudyCPP1\\VariableAndDataType.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\StudyCPP\\StudyCPP1\\StudyCPP1\\VariableAndDataType.cpp",
-              "RelativeToolTip": "StudyCPP1\\VariableAndDataType.cpp",
-              "ViewState": "AgIAADMAAAAAAAAAAAAqwDkAAAAhAAAAAAAAAA==",
+              "Title": "Loop.cpp",
+              "DocumentMoniker": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\Loop.cpp",
+              "RelativeDocumentMoniker": "StudyCPP1\\Loop.cpp",
+              "ToolTip": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\Loop.cpp",
+              "RelativeToolTip": "StudyCPP1\\Loop.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAADgvyIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-11T12:03:03.032Z"
+              "WhenOpened": "2025-05-23T11:54:15.572Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "BranchStatement.cpp",
+              "DocumentMoniker": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\BranchStatement.cpp",
+              "RelativeDocumentMoniker": "StudyCPP1\\BranchStatement.cpp",
+              "ToolTip": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\BranchStatement.cpp",
+              "RelativeToolTip": "StudyCPP1\\BranchStatement.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T11:27:34.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComparisonOperAndLogicalOper.cpp",
+              "DocumentMoniker": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\ComparisonOperAndLogicalOper.cpp",
+              "RelativeDocumentMoniker": "StudyCPP1\\ComparisonOperAndLogicalOper.cpp",
+              "ToolTip": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\ComparisonOperAndLogicalOper.cpp",
+              "RelativeToolTip": "StudyCPP1\\ComparisonOperAndLogicalOper.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T03:16:52.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArithmeticOper.cpp",
+              "DocumentMoniker": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\ArithmeticOper.cpp",
+              "RelativeDocumentMoniker": "StudyCPP1\\ArithmeticOper.cpp",
+              "ToolTip": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\ArithmeticOper.cpp",
+              "RelativeToolTip": "StudyCPP1\\ArithmeticOper.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwDsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T01:48:18.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VariableAndDataType.cpp",
+              "DocumentMoniker": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\VariableAndDataType.cpp",
+              "RelativeDocumentMoniker": "StudyCPP1\\VariableAndDataType.cpp",
+              "ToolTip": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\VariableAndDataType.cpp",
+              "RelativeToolTip": "StudyCPP1\\VariableAndDataType.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T12:03:03.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "OutPut.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\StudyCPP\\StudyCPP1\\StudyCPP1\\OutPut.cpp",
+              "DocumentMoniker": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\OutPut.cpp",
               "RelativeDocumentMoniker": "StudyCPP1\\OutPut.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\StudyCPP\\StudyCPP1\\StudyCPP1\\OutPut.cpp",
+              "ToolTip": "C:\\Users\\hb.kim\\Desktop\\Cording\\StudyCPP\\StudyCPP1\\StudyCPP1\\OutPut.cpp",
               "RelativeToolTip": "StudyCPP1\\OutPut.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-11T11:30:23.389Z"
+              "WhenOpened": "2025-03-11T11:30:23.389Z",
+              "EditorCaption": ""
             }
           ]
         }
